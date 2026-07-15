@@ -1,0 +1,15 @@
+{
+  "name": "ddia",
+  "version": "1.0.0",
+  "description": "designing data intensive applications code ",
+  "keywords": [
+    "ddia"
+  ],
+  "license": "ISC",
+  "author": "Fani Akritidou",
+  "type": "module",
+  "main": "hash_index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
